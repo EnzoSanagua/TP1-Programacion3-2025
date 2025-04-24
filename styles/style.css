@@ -7,7 +7,7 @@ html {
 }
 
 body {
-  width: 600px;
+  width: 800px;
   margin: 0 auto;
   background-color: #ff9500;
   padding: 0 20px 20px 20px;
@@ -129,5 +129,24 @@ a {
 }
 
 a:hover {
+  text-decoration: underline;
+}
+
+.nav {
+  text-align: center;
+  background-color: #333;
+  padding: 10px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+}
+
+.nav a {
+  color: white;
+  text-decoration: none;
+  margin: 0 15px;
+  font-weight: 600;
+}
+
+.nav a:hover {
   text-decoration: underline;
 }
