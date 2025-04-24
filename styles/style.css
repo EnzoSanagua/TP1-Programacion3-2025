@@ -121,3 +121,13 @@ td {
 .contacto a:hover {
   text-decoration: underline;
 }
+
+a {
+  color: #00539f;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
